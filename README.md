@@ -1,4 +1,6 @@
-Lift-Church
-===========
+Lift Church
+=========
 
-Mock-up/Proof of concept website for lift church.
+Mock up/Proof of concept for Lift Church
+
+View the webpage here at http://develonaut.github.io/Lift-Church/
